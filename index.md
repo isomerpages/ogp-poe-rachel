@@ -33,9 +33,15 @@ sections:
       id: announcements
       subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: New Announcement
-          date: 05 June 2024
-          announcement: Announcement content
+        - title: Taro Delights found at Cafe Lilac
+          date: 02 June 2024
+          announcement: Singapore's first-ever Taro-centric cafe. Starting as a home
+            business, they rose to fame with their handmade Taro tiramisu.
+          link_text: Find out more
+          link_url: https://g.co/kgs/581mH7s
+        - title: Travel back in Time to a Retro American Diner in Serangoon
+          date: 04 May 2024
+          announcement: Genuine American comfort food can be found the newly opended
           link_text: ""
           link_url: ""
 ---
