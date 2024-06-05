@@ -41,7 +41,7 @@ sections:
           link_url: https://g.co/kgs/581mH7s
         - title: Travel back in Time to a Retro American Diner in Serangoon
           date: 04 May 2024
-          announcement: Genuine American comfort food can be found the newly opended
+          announcement: Genuine American comfort food found at Joji's Diner, now open 24/7!
           link_text: ""
           link_url: ""
 ---
