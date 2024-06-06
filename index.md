@@ -12,16 +12,6 @@ sections:
       background: /images/pexels_rahimegul_25182696.jpg
       button: View Portfolio
       url: https://rachel-designs.framer.website/
-      key_highlights:
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
   - announcements:
       title: Food Reports
       id: announcements
