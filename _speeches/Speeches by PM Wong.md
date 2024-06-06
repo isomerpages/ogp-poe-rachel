@@ -11,7 +11,7 @@ description: ""
 <p></p>
 <h3><strong>Toast speech at dinner hosted in honour of Ethiopian PM Dr Abiy Ahmed (5 Jun 2024)</strong></h3>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UOdN_Z1ax4U?si=XMEUoXBfDcRU3EID"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UOdN_Z1ax4U?si=XMEUoXBfDcRU3EID"></iframe>
 </div>
 <h3><strong>Lawrence Wong’s first speech as Singapore’s Prime Minister at swearing-in ceremony (15 May 2024)</strong></h3>
 <div class="iframe-wrapper">
