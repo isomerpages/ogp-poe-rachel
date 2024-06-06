@@ -29,9 +29,9 @@ sections:
       button: Button text
       url: /faq/
   - announcements:
-      title: Announcements
+      title: Food Reports
       id: announcements
-      subtitle: Add a list of announcements with dates
+      subtitle: Local Cafes to Visit
       announcement_items:
         - title: Taro Delights found at Cafe Lilac
           date: 02 June 2024
@@ -50,4 +50,22 @@ sections:
             Hvala cafe with Japanese tea and desserts.
           link_text: Find out more
           link_url: https://www.hvala.com.sg/
+  - textcards:
+      title: Best Places to Chill
+      subtitle: Top 3 Recommendations
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Cafe Lilac
+          description: Fresh taro desserts homebaked daily.
+          linktext: Find them here
+          url: https://g.co/kgs/oF263Rn
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
