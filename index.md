@@ -44,13 +44,13 @@ sections:
         - title: Cafe Lilac
           description: Fresh taro desserts homebaked daily
           linktext: Find them here
-          url: https://g.co/kgs/oF263Rn
+          url: https://maps.app.goo.gl/ZYDfp5hzG11jqCAx8
         - title: Joji's Diner
           description: American comfort food available 24/7
           linktext: Find them here
-          url: ""
+          url: https://maps.app.goo.gl/HYY4QjJeuJd6w6tK9
         - title: Hvala
           description: Enjoy Japanese tea and desserts in a relaxing environment
           linktext: Find them here
-          url: https://g.co/kgs/Sk7wemx
+          url: https://maps.app.goo.gl/oWD392XCgjTxijUp8
 ---
