@@ -46,8 +46,8 @@ sections:
           link_url: https://jojisdiner.org/
         - title: Tea Lovers would love Tea Cafe Hvala
           date: 24 April 2024
-          announcement: Take a breather from the hustle and bustle of life at the peaceful
-            and tranquil Hvala cafe.
+          announcement: Take a breather from the hustle and bustle of life at the tranquil
+            Hvala cafe with Japanese tea and desserts.
           link_text: Find out more
           link_url: https://www.hvala.com.sg/
 ---
