@@ -44,4 +44,10 @@ sections:
           announcement: Genuine American comfort food found at Joji's Diner, now open 24/7!
           link_text: Find out more
           link_url: https://jojisdiner.org/
+        - title: Tea Lovers would love Tea Cafe Hvala
+          date: 24 April 2024
+          announcement: Take a breather from the hustle and bustle of life at the peaceful
+            and tranquil Hvala cafe.
+          link_text: Find out more
+          link_url: https://www.hvala.com.sg/
 ---
