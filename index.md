@@ -63,10 +63,10 @@ sections:
           url: https://g.co/kgs/oF263Rn
         - title: Joji's Diner
           description: American comfort food available 24/7
-          linktext: Learn more
+          linktext: Find them here
           url: ""
         - title: Hvala
           description: Card description
-          linktext: Learn more
-          url: ""
+          linktext: Find them here
+          url: https://g.co/kgs/Sk7wemx
 ---
