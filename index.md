@@ -39,7 +39,8 @@ sections:
             business, they rose to fame with their handmade Taro tiramisu.
           link_text: Find out more
           link_url: https://g.co/kgs/581mH7s
-        - title: Travel back in Time to a Retro American Diner in Serangoon
+        - title: Travel back in Time to a Retro American Diner at Joji's Diner in
+            Serangoon
           date: 04 May 2024
           announcement: Genuine American comfort food found at Joji's Diner, now open 24/7!
           link_text: Find out more
@@ -51,20 +52,20 @@ sections:
           link_text: Find out more
           link_url: https://www.hvala.com.sg/
   - textcards:
-      title: Best Places to Chill
+      title: Best Places to Eat and Chill
       subtitle: Top 3 Recommendations
       id: textcards
-      description: Text card description
+      description: Google Maps links below
       cards:
         - title: Cafe Lilac
-          description: Fresh taro desserts homebaked daily.
+          description: Fresh taro desserts homebaked daily
           linktext: Find them here
           url: https://g.co/kgs/oF263Rn
-        - title: Card
-          description: Card description
+        - title: Joji's Diner
+          description: American comfort food available 24/7
           linktext: Learn more
           url: ""
-        - title: Card
+        - title: Hvala
           description: Card description
           linktext: Learn more
           url: ""
