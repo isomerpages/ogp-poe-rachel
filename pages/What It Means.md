@@ -46,4 +46,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Source: <a href="https://www.alltrails.com/singapore/long" rel="noopener noreferrer nofollow" target="_blank">https://www.alltrails.com/singapore/long</a>
+</p>
