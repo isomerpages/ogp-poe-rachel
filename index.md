@@ -7,9 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: Rachel
+      subtitle: Digital Interaction Designer from Singapore
+      background: /images/pexels_rahimegul_25182696.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
