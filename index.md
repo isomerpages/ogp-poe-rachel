@@ -39,7 +39,7 @@ sections:
       title: Best Places to Eat and Chill
       subtitle: Top 3 Recommendations
       id: textcards
-      description: Google Maps links below
+      description: Google Maps links included below
       cards:
         - title: Cafe Lilac
           description: Fresh taro desserts homebaked daily
