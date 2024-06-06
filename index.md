@@ -10,8 +10,8 @@ sections:
       title: Rachel
       subtitle: Digital Interaction Designer from Singapore
       background: /images/pexels_rahimegul_25182696.jpg
-      button: Contact Us
-      url: /contact-us/
+      button: View Portfolio
+      url: https://rachel-designs.framer.website/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
