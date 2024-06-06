@@ -22,7 +22,7 @@ sections:
           announcement: Singapore's first-ever Taro-centric cafe. Starting as a home
             business, they rose to fame with their handmade Taro tiramisu.
           link_text: Find out more
-          link_url: https://g.co/kgs/581mH7s
+          link_url: https://www.instagram.com/whiskingbakes/
         - title: Travel back in Time to a Retro American Diner at Joji's Diner in
             Serangoon
           date: 04 May 2024
