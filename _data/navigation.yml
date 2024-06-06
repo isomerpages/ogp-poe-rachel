@@ -1,8 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Speeches
     collection: speeches
   - title: What It Means
     url: /what-it-means/
+  - title: Contact Us
+    url: /contact-us/
