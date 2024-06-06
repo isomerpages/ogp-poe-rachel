@@ -66,7 +66,7 @@ sections:
           linktext: Find them here
           url: ""
         - title: Hvala
-          description: Card description
+          description: Enjoy Japanese tea and desserts in a relaxing environment
           linktext: Find them here
           url: https://g.co/kgs/Sk7wemx
 ---
