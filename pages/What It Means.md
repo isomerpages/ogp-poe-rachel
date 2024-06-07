@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p>Exploring Singapore's wide array of hiking trails is a great way to get
-away from the city and stay active. Here are some of my favourites listed
-below.</p>
+away from the city and stay active. It's great to explore the many trails
+around Singapore and see its reputation as a garden city hold true. Here
+are some of my favourites listed below.</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
